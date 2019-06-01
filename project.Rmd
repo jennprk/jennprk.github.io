@@ -10,9 +10,19 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## 2019
+
++ PM2.5 effect on Brain function based on mouse RNAseq
+
++ Microbiome Project 2 - aVISTA + Cytoxan effect on breast cancer mice microbiome
+
 ## 2018
 
 <br>
 
-- Microbiome Data Analysis
++ 
+
++ Microbiome Project 1 - Workflow development of microbiome data analysis
+
++ Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
 

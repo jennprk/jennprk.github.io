@@ -1,0 +1,26 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## 2019
+
++ Statistical Learning
+    + R lab
+
++ Foundations Biomedical Applications
+    + R lab
+
+## 2018
+
++ Categorical & Censored Data Analysis 
+    + SAS lab
+
+
