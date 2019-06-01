@@ -10,5 +10,9 @@
 </p>
 <br>
 
+<p align="center">
+I am a doctoral student studying Biostatistics at University of North Carolina - Chapel Hill. My primary research interest is in analysis of high-throughput experiments, based on gene expression, RNAseq, scRNAseq, and microbiome data. 
+</p>
+
 
 
