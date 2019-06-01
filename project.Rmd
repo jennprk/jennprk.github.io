@@ -16,13 +16,12 @@ output:
 
 + Microbiome Project 2 - aVISTA + Cytoxan effect on breast cancer mice microbiome
 
-## 2018
-
 <br>
 
-+ 
+## 2018
 
 + Microbiome Project 1 - Workflow development of microbiome data analysis
 
 + Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
+
 
