@@ -10,7 +10,11 @@
 </p>
 <br>
 
-I am a doctoral student studying Biostatistics at University of North Carolina - Chapel Hill. My primary research interest is in analysis of high-throughput experiments, based on gene expression, RNAseq, scRNAseq, and microbiome data. 
+I am a PhD student studying biostatistics at University of North Carolina - Chapel Hill. 
 
+I received a MS in biostatistics from Weill Cornell Medicine in 2018. Earlier I received a Bachelor in economics from Ewha Womans University in 2016.
 
++ Curriculum Vitae
+
+My CV is available [here](./CV_060219.pdf).
 
