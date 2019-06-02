@@ -12,15 +12,14 @@ output:
 
 ## 2019
 
-+ Statistical Learning
-    + R lab
++ Statistical Learning (Master's Level)
 
-+ Foundations Biomedical Applications
-    + R lab
++ Foundations Biomedical Applications (Master's Level)
+
+<br>
 
 ## 2018
 
-+ Categorical & Censored Data Analysis 
-    + SAS lab
++ Categorical & Censored Data Analysis (Master's Level) 
 
 
