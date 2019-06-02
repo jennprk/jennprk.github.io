@@ -11,7 +11,7 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## 2019
-
+#### Teaching Assistant
 + Statistical Learning (Master's Level)
 
 + Foundations Biomedical Applications (Master's Level)
@@ -19,6 +19,7 @@ output:
 <br>
 
 ## 2018
+#### Teaching Assistant
 
 + Categorical & Censored Data Analysis (Master's Level) 
 

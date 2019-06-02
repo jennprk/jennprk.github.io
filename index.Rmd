@@ -10,11 +10,11 @@
 </p>
 <br>
 
-I am a PhD student studying biostatistics at University of North Carolina - Chapel Hill. 
+I am a PhD student studying biostatistics at University of North Carolina - Chapel Hill. I received a MS in biostatistics from Weill Cornell Medicine in 2018. Earlier I received a Bachelor in economics from Ewha Womans University in 2016.
 
-I received a MS in biostatistics from Weill Cornell Medicine in 2018. Earlier I received a Bachelor in economics from Ewha Womans University in 2016.
+<br>
 
-+ Curriculum Vitae
+#### Curriculum Vitae
 
 My CV is available [here](./CV_060219.pdf).
 
