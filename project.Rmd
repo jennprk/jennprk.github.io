@@ -18,10 +18,23 @@ output:
 
 <br>
 
+<<<<<<< HEAD
 ## 2018
+=======
+<<<<<<< HEAD
++ 
+>>>>>>> df8345c33172ae7bf9c645028b70e32bb339a8c8
 
 + Microbiome Project 1 - Workflow development of microbiome data analysis
 
 + Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
+<<<<<<< HEAD
+=======
+=======
+- PM2.5 effect on Brain function based on mouse RNAseq
+
+- Microbiome Data Analysis
+>>>>>>> 67eaebdb89ad2a002bc69345d1b38d02e70260ca
+>>>>>>> df8345c33172ae7bf9c645028b70e32bb339a8c8
 
 
