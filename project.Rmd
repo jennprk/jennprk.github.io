@@ -12,29 +12,45 @@ output:
 
 ## 2019
 
-+ PM2.5 effect on Brain function based on mouse RNAseq
++ PM2.5 effect on brain function based on mouse RNAseq 
+    + Analyze the effects of PM2.5 on mice brain function in areas including: Cerebellum, Cortex, etc.
+    + Differential Gene Expression analysis, GO term analysis, GSEA, IPA, etc.
+    
+<br>
 
 + Microbiome Project 2 - aVISTA + Cytoxan effect on breast cancer mice microbiome
+    + Microbiome research based on 3 mouse fecal samples DNA extraction and cutaneous humanbreast microbiome samples
+    + Aim to determine the effects of aVISTA, Cyclophosphamide and Radiation Treatment effectson human and mice microbiome to understand the treatment effects on breast cancer.
+    + Perform diversity analysis, differential abundance analysis, etc.
+
+<br>
+<br>
+<br>
+
+## 2018
+
++ Hypertension Research
+    + Aim to determine the association of salt intake and hypertension, metabolic syndrome, andARB treatment effect from a 10K+ hypertension patients data attained from a K-MetS study
+    + Perform data cleaning in SAS and descriptive analysis on baseline features of patients andregression analysis of Na/K and blood pressure in R
+    
+<br>
+
++ Myocardial Infarction(MI) - Stroke Research
+    + Use Cox models to identify effect modification by demographics, stroke risk factors e.g. hypertension, diabetes, etc., and Charlson comorbidities
+    + Use parallel-computing from a Sun Grid Engine (SGE) server for bootstrap to estimate conditional treatment effect from a 1.7+M sample of Medicare beneficiaries data
 
 <br>
 
-<<<<<<< HEAD
-## 2018
-=======
-<<<<<<< HEAD
-+ 
->>>>>>> df8345c33172ae7bf9c645028b70e32bb339a8c8
-
 + Microbiome Project 1 - Workflow development of microbiome data analysis
+    + Develop a comprehensive workflow for microbiome data analysis based on our analysis
+    + Analyze 16S rRNA gene sequence data from a study to understand the effect of fructose consumption on mouse gut microbiome
+    + Perform data preparation and generate phylogenetic trees from data and explore various methods for alpha/beta diversity, differential abundance analysis and classification/clustering
+    
+<br>
 
 + Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
-<<<<<<< HEAD
-=======
-=======
-- PM2.5 effect on Brain function based on mouse RNAseq
-
-- Microbiome Data Analysis
->>>>>>> 67eaebdb89ad2a002bc69345d1b38d02e70260ca
->>>>>>> df8345c33172ae7bf9c645028b70e32bb339a8c8
+    + Compared clustering methods for analyzing Single-Cell RNA Sequencing Data
+    + Performed data processing, simulation based on gamma-poisson distribution, normalization,dimensionality reduction (PCA) with R packagesscater, splatter, clusterExperiment, etc.
+    + Compared among traditional and sequential K-means/PAM based on Adjusted Rand Index
 
 
