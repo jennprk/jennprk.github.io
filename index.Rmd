@@ -10,7 +10,9 @@
 </p>
 <br>
 
-I am starting my PhD in biostatistics at University of North Carolina - Chapel Hill coming Fall. I received a MS in biostatistics from Weill Cornell Medicine in 2018. Earlier I received a Bachelor in economics from Ewha Womans University in 2016.
+I am starting my PhD in biostatistics at University of North Carolina - Chapel Hill in Fall 2019. I received a MS in biostatistics from Weill Cornell Medicine in 2018. Earlier I received a Bachelor in economics from Ewha Womans University in 2016.
+
+My research interest is in genetics/genomics research based on RNAseq, scRNAseq, and microbiome.
 
 <br>
 
