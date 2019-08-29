@@ -53,6 +53,10 @@ My primary research interest is in analysis of high-throughput experiments, base
     + Perform data preparation and generate phylogenetic trees from data and explore various methods for alpha/beta diversity, differential abundance analysis and classification/clustering
     
 <br>
+<br>
+<br>
+
+## 2017
 
 + Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
     + Compared clustering methods for analyzing Single-Cell RNA Sequencing Data
