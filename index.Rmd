@@ -18,5 +18,5 @@ My research interest is in genetics/genomics research based on RNAseq, scRNAseq,
 
 #### Curriculum Vitae
 
-My CV is available [here](./CV_082919_2.pdf).
+My CV is available [here]().
 
