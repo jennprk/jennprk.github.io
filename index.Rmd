@@ -10,7 +10,7 @@
 </p>
 <br>
 
-I am a Ph.D. candidate in Biostatistics at University of North Carolina - Chapel Hill. I am currently working with Dr. Michael Love and Dr. Di Wu on developing statistical methods for analyzing genomics/genetics data. Details can be found under [research]. 
+I am a Ph.D. candidate in Biostatistics at University of North Carolina - Chapel Hill. I am currently working with Dr. Michael Love and Dr. Di Wu on developing statistical methods for analyzing genomics/genetics data. Details can be found under [research](./research.html). 
 
 <br>
 
