@@ -1,2 +1,3 @@
 # jennprk.github.io
-blog
+
+jennprk.github.io
