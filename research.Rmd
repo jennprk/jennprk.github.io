@@ -15,6 +15,7 @@ output:
 My primary research interest is in statistical genomics and genetics with DNAseq, bulk and single-cell RNAseq analysis. My recent research is in cancer genomics on breast cancer.
 
 <br>
+
 ## 2020
 + A hierachical Bayesian model to test the difference in associations between risk factors and Mutational Signature
 
@@ -30,10 +31,8 @@ My primary research interest is in statistical genomics and genetics with DNAseq
     + Aim to determine the effects of aVISTA, Cyclophosphamide and Radiation Treatment effectson human and mice microbiome to understand the treatment effects on breast cancer.
 
 <br>
-<br>
-<br>
 
-## 2018
+## 2018 
 
 + Hypertension Research
     + Aim to determine the association of salt intake and hypertension, metabolic syndrome, andARB treatment effect from a 10K+ hypertension patients data attained from a K-MetS study
@@ -48,8 +47,6 @@ My primary research interest is in statistical genomics and genetics with DNAseq
     + Develop a comprehensive workflow for microbiome data analysis based on our analysis
     + Analyze 16S rRNA gene sequence data from a study to understand the effect of fructose consumption on mouse gut microbiome
     
-<br>
-<br>
 <br>
 
 ## 2017

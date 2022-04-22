@@ -14,6 +14,8 @@ output:
 #### Teaching Assistant
 + UNC Bios - 500H: Introduction to Biostatistics
 
+<br>
+
 ## 2019
 #### Teaching Assistant
 + Weill Cornell - Statistical Learning (Master's Level)
