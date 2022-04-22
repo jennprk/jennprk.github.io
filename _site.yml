@@ -4,7 +4,7 @@ navbar:
   title: "Ji-Eun Park"
   left:
     - text: "Research"
-      href: project.html
+      href: research.html
     - text: "Teaching"
       href: teaching.html
   right:
