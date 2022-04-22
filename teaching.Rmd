@@ -10,17 +10,21 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## 2021
+#### Teaching Assistant
++ UNC Bios - 500H: Introduction to Biostatistics
+
 ## 2019
 #### Teaching Assistant
-+ Statistical Learning (Master's Level)
++ Weill Cornell - Statistical Learning (Master's Level)
 
-+ Foundations Biomedical Applications (Master's Level)
++ Weill Cornell -Foundations Biomedical Applications (Master's Level)
 
 <br>
 
 ## 2018
 #### Teaching Assistant
 
-+ Categorical & Censored Data Analysis (Master's Level) 
++ Weill Cornell -Categorical & Censored Data Analysis (Master's Level) 
 
 
