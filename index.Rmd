@@ -10,11 +10,11 @@
 </p>
 <br>
 
-I'm a Ph.D. candidate in Biostatistics at University of North Carolina - Chapel Hill. I am currently working with Dr. Michael Love and Dr. Di Wu on developing statistical methods for analyzing genomics/genetics data. Details can be found under [research](./research.html). 
+I'm a Ph.D. candidate in Biostatistics at University of North Carolina - Chapel Hill. I am currently working with Dr. Michael Love and Dr. Di Wu on developing statistical methods for analyzing genomics/genetics data. Before joining UNC, I finished my master's in Biostatistics and Data Science at Weill Cornell Medicine. At WCM, I worked with Dr. Davide Risso on single-cell RNAseq research. Details can be found under [research](./research.html).
 
 <br>
 
 #### Curriculum Vitae
 
-My CV is available [here]().
+My CV is available [here](./files/CV_jieunpark_Apr2022.pdf).
 
