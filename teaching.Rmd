@@ -10,7 +10,6 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<<<<<<< HEAD
 ## Teaching Assistant 
 ### UNC Chapel Hill (Biostatistics Dept.)
 + Introduction to Biostatistics (2021)

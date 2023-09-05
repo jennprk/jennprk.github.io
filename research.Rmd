@@ -11,8 +11,6 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 <br> 
-
-<<<<<<< HEAD
 My primary research interest is in statistical analysis of genomic data from high-throughput sequencing experiments.
 =======
 My primary research interest is in statistical genomics and genetics with DNAseq, bulk and single-cell RNAseq analysis. My recent research is in cancer genomics on breast cancer.
