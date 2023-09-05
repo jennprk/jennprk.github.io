@@ -12,21 +12,21 @@ output:
 
 <br> 
 My primary research interest is in statistical analysis of genomic data from high-throughput sequencing experiments.
-=======
-My primary research interest is in statistical genomics and genetics with DNAseq, bulk and single-cell RNAseq analysis. My recent research is in cancer genomics on breast cancer.
 
 <br>
-# Publications
+
+## Publications 
+
 + *Diffsig: Associating Risk Factors With Mutational Signatures*, JE Park, M A. Smith, S C. Van Alsten, A Walens, D Wu, K A. Hoadley, M A. Troester, M I. Love, 2023, DOI: 10.1101/2023.02.09.527740
 
-<<<<<<< HEAD
 <br>
-# Research Projects
-## Recent
+
+## Research Projects   
+#### Recent  
 + `Diffsig`: Associating Risk Factors With Mutational Signatures
     + `Diffsig` is a  Bayesian hierarchical modeling R package that allows to estimate associations between multiple risk factors and mutational signatures. Our package allows to test associations on various types of risk factors - binary, continuous, categorical - 
 
-## Past
+#### Past
 + PM2.5 effect on brain function based on mouse RNAseq 
     + Analyze the effects of PM2.5 on mice brain function with RNAseq in areas including: Cerebellum, Cortex, etc.
 

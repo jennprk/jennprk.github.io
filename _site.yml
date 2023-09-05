@@ -8,7 +8,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "Posts"
-      href: posts.html
+      href: post.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
