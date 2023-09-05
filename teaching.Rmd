@@ -11,10 +11,13 @@ output:
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Teaching Assistant 
-### UNC Chapel Hill (Biostatistics Dept.)
+
+<br>
+
+#### UNC Chapel Hill (Biostatistics Dept.)
 + Introduction to Biostatistics (2021)
 
-### Weill Cornell Graduate School (Biostatistics & Data Science Dept.)
+#### Weill Cornell Graduate School (Biostatistics & Data Science Dept.)
 + Statistical Learning (2019)
 + Foundations Biomedical Applications (2018)
 + Categorical & Censored Data Analysis (2018)
