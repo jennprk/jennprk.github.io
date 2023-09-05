@@ -12,55 +12,37 @@ output:
 
 <br> 
 
-My primary research interest is in analysis of high-throughput experiments, based on gene expression, RNAseq, scRNAseq, and microbiome data.
+My primary research interest is in statistical analysis of genomic data from high-throughput sequencing experiments.
 
 <br>
+# Publications
++ *Diffsig: Associating Risk Factors With Mutational Signatures*, JE Park, M A. Smith, S C. Van Alsten, A Walens, D Wu, K A. Hoadley, M A. Troester, M I. Love, 2023, DOI: 10.1101/2023.02.09.527740
 
-## 2019
+<br>
+# Research Projects
+## Recent
++ `Diffsig`: Associating Risk Factors With Mutational Signatures
+    + `Diffsig` is a  Bayesian hierarchical modeling R package that allows to estimate associations between multiple risk factors and mutational signatures. Our package allows to test associations on various types of risk factors - binary, continuous, categorical - 
 
+## Past
 + PM2.5 effect on brain function based on mouse RNAseq 
-    + Analyze the effects of PM2.5 on mice brain function in areas including: Cerebellum, Cortex, etc.
-    + Differential Gene Expression analysis, GO term analysis, GSEA, IPA, etc.
+    + Analyze the effects of PM2.5 on mice brain function with RNAseq in areas including: Cerebellum, Cortex, etc.
     
-<br>
-
 + Microbiome Project 2 - aVISTA + Cytoxan effect on breast cancer mice microbiome
     + Microbiome research based on 3 mouse fecal samples DNA extraction and cutaneous humanbreast microbiome samples
     + Aim to determine the effects of aVISTA, Cyclophosphamide and Radiation Treatment effectson human and mice microbiome to understand the treatment effects on breast cancer.
-    + Perform diversity analysis, differential abundance analysis, etc.
-
-<br>
-<br>
-<br>
-
-## 2018
 
 + Hypertension Research
     + Aim to determine the association of salt intake and hypertension, metabolic syndrome, andARB treatment effect from a 10K+ hypertension patients data attained from a K-MetS study
-    + Perform data cleaning in SAS and descriptive analysis on baseline features of patients andregression analysis of Na/K and blood pressure in R
-    
-<br>
 
 + Myocardial Infarction(MI) - Stroke Research
     + Use Cox models to identify effect modification by demographics, stroke risk factors e.g. hypertension, diabetes, etc., and Charlson comorbidities
-    + Use parallel-computing from a Sun Grid Engine (SGE) server for bootstrap to estimate conditional treatment effect from a 1.7+M sample of Medicare beneficiaries data
-
-<br>
 
 + Microbiome Project 1 - Workflow development of microbiome data analysis
     + Develop a comprehensive workflow for microbiome data analysis based on our analysis
     + Analyze 16S rRNA gene sequence data from a study to understand the effect of fructose consumption on mouse gut microbiome
-    + Perform data preparation and generate phylogenetic trees from data and explore various methods for alpha/beta diversity, differential abundance analysis and classification/clustering
-    
-<br>
-<br>
-<br>
-
-## 2017
 
 + Comparing clustering methods for single-cell RNA sequencing data (advisor: Davide Risso)
     + Compared clustering methods for analyzing Single-Cell RNA Sequencing Data
-    + Performed data processing, simulation based on gamma-poisson distribution, normalization,dimensionality reduction (PCA) with R packagesscater, splatter, clusterExperiment, etc.
-    + Compared among traditional and sequential K-means/PAM based on Adjusted Rand Index
-
+    + Performed data processing, simulation based on gamma-poisson distribution, normalization,dimensionality reduction (PCA) with R packages `scater`, `splatter`, `clusterExperiment`, etc.
 

@@ -10,17 +10,13 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## 2019
-#### Teaching Assistant
-+ Statistical Learning (Master's Level)
+## Teaching Assistant 
+### UNC Chapel Hill (Biostatistics Dept.)
++ Introduction to Biostatistics (2021)
 
-+ Foundations Biomedical Applications (Master's Level)
-
-<br>
-
-## 2018
-#### Teaching Assistant
-
-+ Categorical & Censored Data Analysis (Master's Level) 
+### Weill Cornell Graduate School (Biostatistics & Data Science Dept.)
++ Statistical Learning (2019)
++ Foundations Biomedical Applications (2018)
++ Categorical & Censored Data Analysis (2018)
 
 

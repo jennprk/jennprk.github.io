@@ -1,11 +1,12 @@
 ---
+output:
+  html_document:
+    toc: true
+    toc_depth: 5
+    toc_float:
+     collapsed: false
+     smooth_scroll: false
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
-
-<<<<<<< HEAD
-+ [](/content/post/alternative-to-kable-function-when-knitting-to-ms-word.html)
-=======
-+ [adad](/content/post/alternative-to-kable-function-when-knitting-to-ms-word.html)
->>>>>>> 67eaebdb89ad2a002bc69345d1b38d02e70260ca
 

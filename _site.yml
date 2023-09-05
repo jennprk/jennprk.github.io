@@ -3,10 +3,12 @@ output_dir: "."
 navbar:
   title: "Ji-Eun Park"
   left:
-    - text: "Research"
-      href: project.html
+    - text: "Research & Publications"
+      href: research.html
     - text: "Teaching"
       href: teaching.html
+    - text: "Posts"
+      href: posts.html
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
