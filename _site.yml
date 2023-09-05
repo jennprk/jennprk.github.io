@@ -3,6 +3,7 @@ output_dir: "."
 navbar:
   title: "Ji-Eun Park"
   left:
+<<<<<<< HEAD
     - text: "Research & Publications"
       href: research.html
     - text: "Teaching"
